@@ -13,3 +13,5 @@ UserSettings
 node_modules
 obj
 projects/*/builds
+projects/1_Start_Template/Assets/Gen/
+*.meta
